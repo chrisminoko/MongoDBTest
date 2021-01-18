@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBTest", "MongoDBTest\MongoDBTest.csproj", "{E08F01EE-17CD-4F9B-BC5F-5A740E65066D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08F01EE-17CD-4F9B-BC5F-5A740E65066D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08F01EE-17CD-4F9B-BC5F-5A740E65066D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08F01EE-17CD-4F9B-BC5F-5A740E65066D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08F01EE-17CD-4F9B-BC5F-5A740E65066D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906918B4-BA20-47DF-8534-0FE6B24E636C}
+	EndGlobalSection
+EndGlobal
